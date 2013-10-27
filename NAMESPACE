@@ -1,0 +1,10 @@
+#exportPattern("^[[:alpha:]]+")
+export(contour.mvcwt)
+export(image.mvcwt)
+export(Morlet)
+export(mvcwt)
+export(plot.mvcwt)
+export(wmr.boot)
+export(wmr)
+export(print.mvcwt)
+
