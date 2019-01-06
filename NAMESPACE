@@ -16,3 +16,11 @@ export(wmr.boot)
 import(RColorBrewer)
 import(foreach)
 import(grDevices)
+
+importFrom("graphics", "par")
+importFrom("stats", "median")
+importFrom("utils", "str")
+
+S3method(contour, mvcwt)
+S3method(image, mvcwt)
+S3method(plot, mvcwt)

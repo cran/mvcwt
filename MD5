@@ -1,12 +1,12 @@
-0b3c94a59aa72151d3019306d4ea4a97 *DESCRIPTION
-ce527cf25e0d37fdc9a8aca1c8d9f6a0 *NAMESPACE
+e708bf6b3d11ed4bd9964727bd3352fa *DESCRIPTION
+0e7305ffc5bc1fc358d8c9bdf7a7f33a *NAMESPACE
 4d543a5b55afb60c244aadc0814316fa *R/mvcwt.R
-7776549cc322a80ebbc66857abffc845 *data/lrlake.RData
+fa6785c5ce4e99ec5760efc07b313327 *data/lrlake.RData
 8db423c9cd2548359b909ef186c5ee15 *man/Morlet.Rd
 320a4d7e271612fb3c9472b09da5a5e9 *man/contour.mvcwt.Rd
 43b437c74ee20daf2d50332b18a439b4 *man/image.mvcwt.Rd
 08668b8c5838008c9bc413cd58248304 *man/lrlake.Rd
-f1c6eef9dc352437d5732e3b1ef104ab *man/mvcwt-package.Rd
+2af23cf32b4ba2910b538c5096a3b663 *man/mvcwt-package.Rd
 3dbf8b09ad8637ca15222b273d30587a *man/mvcwt.Rd
 17fc95ae99357b7afcc2dc4adfa0e30e *man/plot.mvcwt.Rd
 00e745b8dc1da7b15f2ea1e7fac51067 *man/utils.Rd

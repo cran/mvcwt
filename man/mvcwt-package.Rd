@@ -19,7 +19,7 @@ below, and as such it is not well tested. It may give different or
 inaccurate results. I recommend you run tests on known data.
 
 The most recent development version of this package can be found at
-\url{https://bitbucket.org/tkeitt/mvcwt/overview}.
+\url{https://github.com/thk686/mvcwt}.
 }
 \examples{
 \dontrun{
